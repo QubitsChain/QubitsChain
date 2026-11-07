@@ -1,1 +1,1 @@
-![banner](assets/banner.png)
+![banner](g-banner.png)
