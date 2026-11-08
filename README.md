@@ -10,9 +10,10 @@ Qubits is a layer 1 for keeping assets safe, and moving them, after quantum comp
 
 Mainnet is not live yet, and the code has not been audited. The [status page](https://qubits.sh/docs/status) says what exists and what doesn't.
 
-**Website:** [qubits.sh](https://qubits.sh)<br>
-**Docs:** [qubits.sh/docs](https://qubits.sh/docs)<br>
-**X:** [@QubitsSH](https://x.com/QubitsSH)<br>
+**Website:**  [qubits.sh](https://qubits.sh)<br>
+**Docs:**     [qubits.sh/docs](https://qubits.sh/docs)<br>
+**X:**        [@QubitsSH](https://x.com/QubitsSH)<br>
 **Telegram:** [t.me/qubitssh](https://t.me/qubitssh)
 
-BITS on Ethereum is only `0x000000000003dDef204b9B32c29c57f293Ae5599`. Any other contract using the name is not ours.
+
+BITS on Ethereum is only [`0x000000000003dDef204b9B32c29c57f293Ae5599`](https://etherscan.io/token/0x000000000003dDef204b9B32c29c57f293Ae5599). Any other contract using the name is not ours.
