@@ -16,4 +16,4 @@ Mainnet is not live yet, and the code has not been audited. The [status page](ht
 **Telegram:** [t.me/qubitssh](https://t.me/qubitssh)
 
 
-BITS on Ethereum is only [`0x000000000003dDef204b9B32c29c57f293Ae5599`](https://etherscan.io/token/0x000000000003dDef204b9B32c29c57f293Ae5599). Any other contract using the name is not ours.
+BITS on Ethereum is only [`0x000000000003dDef204b9B32c29c57f293Ae5599`](https://etherscan.io/token/0x000000000003dDef204b9B32c29c57f293Ae5599).
